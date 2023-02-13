@@ -1,0 +1,12 @@
+{
+  "type": "commonjs",
+  "author": {
+    "name": "Andrii Maliuta",
+    "email": "quadr988@gmail.com"
+  },
+  "description": "GCP test",
+  "name": "gcp-node-test-parser",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0"
+  }
+}
